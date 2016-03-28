@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/dotfiles-i3.git]
+checkout = vcsh clone https://github.com/akhilman/dotfiles-i3.git dotfiles-i3
