@@ -1,0 +1,4 @@
+*
+!/.gitignore.d/mr
+!/.config/mr/available.d
+!/.mrconfig
