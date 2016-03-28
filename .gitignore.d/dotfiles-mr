@@ -1,6 +1,8 @@
 *
 **
 **/*
-!/.config/mr/available.d/**
+!/.config/mr/available.d/*
+!/.config/mr/config.d/dotfiles-mr.vcsh
+!/.config/mr/config.d/dotfiles-profile.vcsh
 !/.mrconfig
 !/.gitignore.d/dotfiles-mr

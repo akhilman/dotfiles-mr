@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/dotfiles-xsession.git]
+checkout = vcsh clone https://github.com/akhilman/dotfiles-xsession.git dotfiles-xsession
