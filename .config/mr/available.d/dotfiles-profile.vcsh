@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/dotfiles-profile.git]
+checkout = vcsh clone ssh://servak/~/git/dotfiles-profile.git dotfiles-profile

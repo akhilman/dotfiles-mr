@@ -3,4 +3,4 @@
 **/*
 !/.config/mr/available.d/**
 !/.mrconfig
-!/.gitignore.d/mr
+!/.gitignore.d/dotfiles-mr
