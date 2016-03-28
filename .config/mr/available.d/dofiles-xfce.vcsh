@@ -1,2 +1,0 @@
-[$HOME/.config/vcsh/repo.d/dotfiles-xfce.git]
-checkout = vcsh clone https://github.com/akhilman/dotfiles-xfce.git dotfiles-xfce
