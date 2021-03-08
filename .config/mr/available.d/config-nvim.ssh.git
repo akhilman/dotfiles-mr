@@ -1,0 +1,2 @@
+[$HOME/.config/nvim]
+checkout = git clone git@github.com:akhilman/config-nvim.git $HOME/.config/nvim
