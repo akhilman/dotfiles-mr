@@ -1,0 +1,2 @@
+[$HOME/.config/fish]
+checkout = git clone https://codeberg.org/AkhIL/config-fish.git $HOME/.config/fish
