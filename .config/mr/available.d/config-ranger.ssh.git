@@ -1,2 +1,0 @@
-[$HOME/.config/ranger]
-checkout = git clone git@github.com:akhilman/config-ranger.git $HOME/.config/ranger
