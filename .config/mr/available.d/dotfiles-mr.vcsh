@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/dotfiles-mr.git]
-checkout = vcsh clone https://github.com/akhilman/dotfiles-mr.git dotfiles-mr
+checkout = vcsh clone https://codeberg.org/AkhIL/dotfiles-mr.git dotfiles-mr
