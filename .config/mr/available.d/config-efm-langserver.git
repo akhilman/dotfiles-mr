@@ -1,0 +1,2 @@
+[$HOME/.config/efm-langserver]
+checkout = git clone https://codeberg.org/AkhIL/config-efm-langserver.git $HOME/.config/efm-langserver
