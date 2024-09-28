@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/dotfiles-desktop.git]
+checkout = vcsh clone https://codeberg.org/AkhIL/dotfiles-desktop.git dotfiles-desktop
