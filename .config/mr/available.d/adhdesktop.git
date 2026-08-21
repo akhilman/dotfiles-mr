@@ -1,0 +1,2 @@
+[$HOME/.config/adhdesktop]
+checkout = git clone https://github.com/akhilman/adhdesktop.git $HOME/.config/adhdesktop
